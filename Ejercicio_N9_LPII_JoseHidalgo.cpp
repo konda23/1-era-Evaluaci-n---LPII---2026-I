@@ -46,9 +46,9 @@ int main(){
 	//division
 	cout<<endl;
 		
-	for (int i=rango1 ; i<=rango2 ; i++){
+	for (float i=rango1 ; i<=rango2 ; i++){
 		
-		for (int j=rango3 ; j<=rango4; j++){
+		for (float j=rango3 ; j<=rango4; j++){
 	
 		cout<<i<<" / "<<j<<" = "<<i/j<<endl;
 	}
